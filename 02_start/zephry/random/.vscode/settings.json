@@ -1,0 +1,7 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "zephyr.h": "c",
+        "rand32.h": "c"
+    }
+}
